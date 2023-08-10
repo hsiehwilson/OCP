@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org"> <head>
+    <title th:remove="all">Template for HTML email</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/> </head>
+<body>
+<p>你好，<span th:text="${name}+'同仁'"></span>
+</p>
+<p th:if="${name.length() > 10}">
+    這個名字出乎意料的長～
+</p>
+<p>
+    你已於<span th:text="${subscriptionDate}"></span>成功訂閱 <b>donkey channel</b>
+</p>
+<p>將提供以下技術</p>
+<ul th:remove="all-but-first">
+    <li th:each="tech : ${technologies}" th:text="${tech}"></li>
+    <li></li>
+    <li></li>
+</ul>
+<p>
+    Sincerely, <br/>
+    <em>Wilson</em>
+</p>
+</body>
+</html>

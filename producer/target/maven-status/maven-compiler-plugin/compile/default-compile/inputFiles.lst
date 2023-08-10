@@ -1,0 +1,9 @@
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/service/routingmode/bean/mailTemplate.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/config/FanoutConfig.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/service/SenderService.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/controller/SendRoutingMessage.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/ProducerApplication.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/controller/SenderController.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/config/RoutingModeConfig.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/service/SendMailService.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/producer/src/main/java/com/example/producer/config/RabbitConfig.java

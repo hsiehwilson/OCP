@@ -1,0 +1,8 @@
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/utils/mailTemplate.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/config/ThymeleafTemplateConfig.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/service/EmailSenderService.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/dto/mailTemplate.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/model/Email.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/config/RabbitConfig.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/listener/ReceiverListener.java
+/Users/wilsonhsieh/Desktop/IBM projects/MessageQueue/RabbitMqTraining/consumer/src/main/java/com/example/consumer/ConsumerApplication.java

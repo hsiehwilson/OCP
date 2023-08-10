@@ -1,0 +1,9 @@
+com/example/producer/service/SendMailService.class
+com/example/producer/config/RabbitConfig.class
+com/example/producer/controller/SenderController.class
+com/example/producer/service/SenderService.class
+com/example/producer/ProducerApplication.class
+com/example/producer/config/RoutingModeConfig.class
+com/example/producer/service/routingmode/bean/mailTemplate.class
+com/example/producer/controller/SendRoutingMessage.class
+com/example/producer/config/FanoutConfig.class
