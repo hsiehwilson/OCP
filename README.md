@@ -1,0 +1,1 @@
+A message queue program with sender and reciever in different modules to send message via Postman from the right routing and catch message form RabbitMQ and store the message from reciever and send email 
